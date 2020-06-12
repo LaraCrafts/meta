@@ -2,6 +2,7 @@
 - [Getting Started](#getting-started)
 - [Coding Standards](#coding-standards)
 - [Packages](#packages)
+- [Questions](#questions)
 
 ## Getting Started
 
@@ -34,3 +35,7 @@ Every package must:
 - Be linked to a project with the package name in order to keep things organized
 
 To skip all of the overhead of creating the basic package files, you can use the [package boilerplate template](https://github.com/LaraCrafts/boilerplate) while creating a new repository.
+
+## Questions
+
+Something is not clear about these information? Feel free to [open an issue](https://github.com/LaraCrafts/meta/issues/new).
